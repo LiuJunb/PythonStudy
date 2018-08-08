@@ -8,7 +8,11 @@ for value in arr:
         print('\t'+str(value*value))
 
 
-
+# 统计
+print('----')
+print(min(arr))
+print(max(arr))
+print(sum(arr))
 
 
 
