@@ -43,10 +43,13 @@ print(cars)
 
 # 数组的取反 reverse()
 cars.reverse()
-print(cars)
+print(cars)  # ['bm', 'bt', 'ca', 'jl']
 
 # 数组的长度 len()
-print(len(cars))
+print(len(cars))  # 4
+
+# 判断某个元素是否在数列中
+print('bm' in cars)  # True
 
 
 

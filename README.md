@@ -5,7 +5,7 @@ PyCharm 激活 ： http://jetbrains.license.laucyun.com/
 
 PyCharm 需要配置 Project Interpreter（ 选择Python的安装路径 ）
 
-PyCharm LicenseServer：http://www.yuanzhaoyi.cn:1027
+PyCharm License Server：http://www.yuanzhaoyi.cn:1027
 
 ##2.搭建python环境
 
