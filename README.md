@@ -7,7 +7,7 @@ PyCharm 需要配置 Project Interpreter（ 选择Python的安装路径 ）
 
 PyCharm License Server：http://www.yuanzhaoyi.cn:1027
 
-##2.搭建python环境
+##2.MAC搭建python环境
 
 > 不需要配置环境变量，并且mac自带python2
 
