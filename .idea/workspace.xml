@@ -2,24 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="359a81d1-a1e5-4eac-91a2-6b13a25942df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/book/section-10/01-read-file/01-读取文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-10/01-read-file/02-一行一行的读取文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-10/01-read-file/03-readlines读取文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-10/01-read-file/file/test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-9/02-创建类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-9/03-使用类和实例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-9/04-类的继承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-9/05-类的重写方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-9/06-实例作为属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-9/model/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-9/model/my_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-9/model2/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-9/model2/my_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-9/python标准库/01-有顺的字典.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-9/python标准库/02-random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/alien_invasion/alien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/alien_invasion/alien_invasion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/alien_invasion/bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/alien_invasion/game_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/alien_invasion/game_stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/alien_invasion/images/alien.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/alien_invasion/images/ship.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/alien_invasion/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/alien_invasion/ship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/section-10/02-write-file/01-写文件-覆盖.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/section-10/02-write-file/02-写文件-追加.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/section-10/03-异常/01-处理ZeroDivisionError异常.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/01-counts-world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/02-计算多个文件的单词数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/file/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/file/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/01-write_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/02-read_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/section-11/01-编写测试方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/section-11/module/user.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PythonStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonStudy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/section-10/02-write-file/01-写文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/ReadMe/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +33,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonStudy$01_ZeroDivisionError.coverage" NAME="01-处理ZeroDivisionError异常 Coverage Results" MODIFIED="1534298717259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10/03-异常" />
     <SUITE FILE_PATH="coverage/PythonStudy$01___2_.coverage" NAME="01-读取文件 (2) Coverage Results" MODIFIED="1534240990207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10/01-read-file" />
-    <SUITE FILE_PATH="coverage/PythonStudy$02_.coverage" NAME="02-一行一行的读取文件 Coverage Results" MODIFIED="1534239936858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10" />
+    <SUITE FILE_PATH="coverage/PythonStudy$02_.coverage" NAME="02-计算多个文件的单词数 Coverage Results" MODIFIED="1534301569640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10/04-计算文章的单词数" />
     <SUITE FILE_PATH="coverage/PythonStudy$my_car.coverage" NAME="my_car Coverage Results" MODIFIED="1534236105958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-9/model" />
     <SUITE FILE_PATH="coverage/PythonStudy$06_.coverage" NAME="06-实例作为属性 Coverage Results" MODIFIED="1534232458753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-9" />
     <SUITE FILE_PATH="coverage/PythonStudy$05__.coverage" NAME="05-函数参数-数列 Coverage Results" MODIFIED="1533799383857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-8" />
@@ -37,28 +43,34 @@
     <SUITE FILE_PATH="coverage/PythonStudy$my_car__1_.coverage" NAME="my_car (1) Coverage Results" MODIFIED="1534236690815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-9/model2" />
     <SUITE FILE_PATH="coverage/PythonStudy$05_while.coverage" NAME="05-while拷贝数列 Coverage Results" MODIFIED="1533791516870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-7" />
     <SUITE FILE_PATH="coverage/PythonStudy$05_.coverage" NAME="05-类的重写方法 Coverage Results" MODIFIED="1534232455668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-9" />
+    <SUITE FILE_PATH="coverage/PythonStudy$02__.coverage" NAME="02-写文件-追加 Coverage Results" MODIFIED="1534298321339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10/02-write-file" />
     <SUITE FILE_PATH="coverage/PythonStudy$06__.coverage" NAME="06-函数参数-任意参数 Coverage Results" MODIFIED="1533799706873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-8" />
     <SUITE FILE_PATH="coverage/PythonStudy$03_.coverage" NAME="03-使用类和实例 Coverage Results" MODIFIED="1534230816086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-9" />
     <SUITE FILE_PATH="coverage/PythonStudy$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1533702064284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section1" />
     <SUITE FILE_PATH="coverage/PythonStudy$01_if.coverage" NAME="01-if语句 Coverage Results" MODIFIED="1533722066979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-5" />
     <SUITE FILE_PATH="coverage/PythonStudy$01___1_.coverage" NAME="01-读取文件 (1) Coverage Results" MODIFIED="1534240955149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10/01-write" />
-    <SUITE FILE_PATH="coverage/PythonStudy$01_.coverage" NAME="01-读取文件 Coverage Results" MODIFIED="1534240912934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10" />
+    <SUITE FILE_PATH="coverage/PythonStudy$01_.coverage" NAME="01-编写测试方法 Coverage Results" MODIFIED="1534310478175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-11" />
+    <SUITE FILE_PATH="coverage/PythonStudy$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1534407246213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/alien_invasion" />
     <SUITE FILE_PATH="coverage/PythonStudy$02_while.coverage" NAME="02-while循环 Coverage Results" MODIFIED="1533787468599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-7" />
     <SUITE FILE_PATH="coverage/PythonStudy$07__3_.coverage" NAME="07-函数参数-任意参数3-关键字 Coverage Results" MODIFIED="1533801068938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-8" />
     <SUITE FILE_PATH="coverage/PythonStudy$01_helloworld.coverage" NAME="01-helloworld Coverage Results" MODIFIED="1533711872542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-1" />
+    <SUITE FILE_PATH="coverage/PythonStudy$02_read_json.coverage" NAME="02-read_json Coverage Results" MODIFIED="1534303886550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件" />
     <SUITE FILE_PATH="coverage/PythonStudy$02____.coverage" NAME="02- 操作列表(遍历数组) Coverage Results" MODIFIED="1533717697482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-3" />
+    <SUITE FILE_PATH="coverage/PythonStudy$01_counts_world.coverage" NAME="01-counts-world Coverage Results" MODIFIED="1534301256041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10/04-计算文章的单词数" />
     <SUITE FILE_PATH="coverage/PythonStudy$04_breakwhile.coverage" NAME="04-使用break退出while Coverage Results" MODIFIED="1533788454847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-7" />
     <SUITE FILE_PATH="coverage/PythonStudy$03_while.coverage" NAME="03-使用标签推出while Coverage Results" MODIFIED="1533787682580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-7" />
     <SUITE FILE_PATH="coverage/PythonStudy$07__2.coverage" NAME="07-函数参数-任意参数2 Coverage Results" MODIFIED="1533800182878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-8" />
     <SUITE FILE_PATH="coverage/PythonStudy$02_random.coverage" NAME="02-random Coverage Results" MODIFIED="1534238930795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-9/python标准库" />
     <SUITE FILE_PATH="coverage/PythonStudy$09_.coverage" NAME="09-调用模块中封装的函数 Coverage Results" MODIFIED="1533803548993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-8" />
+    <SUITE FILE_PATH="coverage/PythonStudy$01_write_json.coverage" NAME="01-write_json Coverage Results" MODIFIED="1534303702976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件" />
     <SUITE FILE_PATH="coverage/PythonStudy$04_.coverage" NAME="04-类的继承 Coverage Results" MODIFIED="1534231954855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-9" />
+    <SUITE FILE_PATH="coverage/PythonStudy$alien.coverage" NAME="alien Coverage Results" MODIFIED="1534388276732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/alien_invasion" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1627443675">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
@@ -68,38 +80,102 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="1" />
-          <entry key="py" value="105" />
-          <entry key="txt" value="1" />
+          <entry key="bmp" value="1" />
+          <entry key="json" value="5" />
+          <entry key="md" value="3" />
+          <entry key="py" value="173" />
+          <entry key="txt" value="11" />
           <entry key="wxml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="105" />
+          <entry key="Image" value="1" />
+          <entry key="JSON" value="5" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="173" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="35" />
-          <entry key="md" value="3" />
-          <entry key="py" value="10216" />
+          <entry key="dummy" value="38" />
+          <entry key="md" value="23" />
+          <entry key="py" value="19143" />
           <entry key="txt" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="93" />
-          <entry key="Python" value="10216" />
+          <entry key="Markdown" value="23" />
+          <entry key="PLAIN_TEXT" value="96" />
+          <entry key="Python" value="19143" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book/alien_invasion/game_stats.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding>
+                <marker date="1534407074000" expanded="true" signature="18:23" ph="..." />
+                <marker date="1534407074000" expanded="true" signature="243:247" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book/alien_invasion/alien_invasion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+              <folding>
+                <element signature="e#7#17#0" expanded="true" />
+                <marker date="1534407119000" expanded="true" signature="258:263" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/book/alien_invasion/game_function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-79">
+              <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1534407046000" expanded="true" signature="1051:1235" ph="..." />
+                <marker date="1534407046000" expanded="true" signature="1310:1465" ph="..." />
+                <marker date="1534407046000" expanded="true" signature="1952:1953" ph="..." />
+                <marker date="1534407046000" expanded="true" signature="2309:2561" ph="..." />
+                <marker date="1534407046000" expanded="true" signature="4249:4254" ph="..." />
+                <marker date="1534407046000" expanded="true" signature="4582:4773" ph="..." />
+                <marker date="1534407046000" expanded="true" signature="4821:4826" ph="..." />
+                <marker date="1534407046000" expanded="true" signature="5048:5053" ph="..." />
+                <marker date="1534407046000" expanded="true" signature="5512:5785" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book/alien_invasion/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <marker date="1534403726000" expanded="true" signature="15:20" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -108,28 +184,20 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/book/section-1/01-helloworld.py" />
-        <option value="$PROJECT_DIR$/book/section-2/02-基本数据类型.py" />
-        <option value="$PROJECT_DIR$/book/section-2/03-函数.py" />
-        <option value="$PROJECT_DIR$/book/section-3/02- 操作列表(便利数组).py" />
-        <option value="$PROJECT_DIR$/book/section-3/02- 操作列表(遍历数组).py" />
-        <option value="$PROJECT_DIR$/book/section-3/03-创建数列.py" />
-        <option value="$PROJECT_DIR$/book/section-4/01-数列.py" />
-        <option value="$PROJECT_DIR$/book/section-4/02-元组.py" />
-        <option value="$PROJECT_DIR$/book/section-5/01-if语句.py" />
-        <option value="$PROJECT_DIR$/book/section-5/02-检查摸个值是否在数列中.py" />
-        <option value="$PROJECT_DIR$/book/section-6/01-字典.py" />
-        <option value="$PROJECT_DIR$/book/section-6/02-遍历字典.py" />
-        <option value="$PROJECT_DIR$/book/section-6/03-字典列表.py" />
-        <option value="$PROJECT_DIR$/book/section-6/04-字典嵌套字典.py" />
-        <option value="$PROJECT_DIR$/book/section-7/01-用户输入.py" />
-        <option value="$PROJECT_DIR$/book/section-7/02-while循环.py" />
         <option value="$PROJECT_DIR$/book/section-7/03-使用标签推出while.py" />
         <option value="$PROJECT_DIR$/book/section-7/04-使用break退出while.py" />
         <option value="$PROJECT_DIR$/book/section-7/05-while拷贝数列.py" />
@@ -162,6 +230,25 @@
         <option value="$PROJECT_DIR$/book/section-10/file/test1.txt" />
         <option value="$PROJECT_DIR$/book/section-10/02-一行一行的读取文件.py" />
         <option value="$PROJECT_DIR$/book/section-10/03-readlines读取文件.py" />
+        <option value="$PROJECT_DIR$/book/section-10/02-write-file/01-写文件.py" />
+        <option value="$PROJECT_DIR$/book/section-10/02-write-file/02-写文件-追加.py" />
+        <option value="$PROJECT_DIR$/book/section-10/02-write-file/01-写文件-覆盖.py" />
+        <option value="$PROJECT_DIR$/book/section-10/03-异常/01-处理ZeroDivisionError异常.py" />
+        <option value="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/01-counts-world.py" />
+        <option value="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/file/test2.txt" />
+        <option value="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/02-计算多个文件的单词数.py" />
+        <option value="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/02-read_json.py" />
+        <option value="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/01-write_json.py" />
+        <option value="$PROJECT_DIR$/book/section-11/module/user.py" />
+        <option value="$PROJECT_DIR$/book/section-11/01-编写测试方法.py" />
+        <option value="$PROJECT_DIR$/book/alien_invasion/bullet.py" />
+        <option value="$PROJECT_DIR$/book/ReadMe/readme.md" />
+        <option value="$PROJECT_DIR$/book/alien_invasion/alien.py" />
+        <option value="$PROJECT_DIR$/book/alien_invasion/ship.py" />
+        <option value="$PROJECT_DIR$/book/alien_invasion/settings.py" />
+        <option value="$PROJECT_DIR$/book/alien_invasion/game_function.py" />
+        <option value="$PROJECT_DIR$/book/alien_invasion/game_stats.py" />
+        <option value="$PROJECT_DIR$/book/alien_invasion/alien_invasion.py" />
       </list>
     </option>
   </component>
@@ -172,10 +259,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="181" />
-    <option name="y" value="84" />
-    <option name="width" value="1400" />
-    <option name="height" value="856" />
+    <option name="x" value="450" />
+    <option name="y" value="175" />
+    <option name="width" value="1269" />
+    <option name="height" value="758" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -199,14 +286,7 @@
               <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
               <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="section-10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="section-10" type="462c0819:PsiDirectoryNode" />
-              <item name="02-write-file" type="462c0819:PsiDirectoryNode" />
+              <item name="alien_invasion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,18 +297,19 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/book/alien_invasion/images" />
       <recent name="$PROJECT_DIR$/book/section-10/01-读取文件" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/book/section-10" />
-      <recent name="$PROJECT_DIR$/book/section-9/model2" />
-      <recent name="$PROJECT_DIR$/book/section-9" />
-      <recent name="$PROJECT_DIR$/book/section-8" />
-      <recent name="$PROJECT_DIR$/book/section-7" />
+      <recent name="$PROJECT_DIR$/book/alien_invasion/images" />
+      <recent name="$PROJECT_DIR$/book/ReadMe/img" />
+      <recent name="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件" />
+      <recent name="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/file" />
+      <recent name="$PROJECT_DIR$/book/section-10/04-计算文章的单词数" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,8 +324,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01-读取文件 (2)">
-    <configuration name="01-读取文件 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.alien_invasion">
+    <configuration name="01-编写测试方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,12 +333,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/section-10/01-write" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/section-11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/section-10/01-write/01-读取文件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/section-11/01-编写测试方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +347,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01-读取文件 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="01-write_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,12 +355,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/section-10/01-read-file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/section-10/01-read-file/01-读取文件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/01-write_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +369,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01-读取文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02-read_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,12 +377,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/section-10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/section-10/01-读取文件/01-读取文件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/02-read_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +391,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02-一行一行的读取文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="alien" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,12 +399,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/section-10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/alien_invasion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/section-10/01-读取文件/02-一行一行的读取文件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/alien_invasion/alien.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,7 +413,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-readlines读取文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,12 +421,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/section-10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/alien_invasion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/section-10/01-读取文件/03-readlines读取文件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/alien_invasion/alien_invasion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,19 +436,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.01-读取文件" />
-      <item itemvalue="Python.02-一行一行的读取文件" />
-      <item itemvalue="Python.03-readlines读取文件" />
-      <item itemvalue="Python.01-读取文件 (1)" />
-      <item itemvalue="Python.01-读取文件 (2)" />
+      <item itemvalue="Python.01-write_json" />
+      <item itemvalue="Python.02-read_json" />
+      <item itemvalue="Python.01-编写测试方法" />
+      <item itemvalue="Python.alien_invasion" />
+      <item itemvalue="Python.alien" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01-读取文件 (2)" />
-        <item itemvalue="Python.01-读取文件 (1)" />
-        <item itemvalue="Python.01-读取文件" />
-        <item itemvalue="Python.03-readlines读取文件" />
-        <item itemvalue="Python.02-一行一行的读取文件" />
+        <item itemvalue="Python.alien_invasion" />
+        <item itemvalue="Python.alien" />
+        <item itemvalue="Python.01-编写测试方法" />
+        <item itemvalue="Python.02-read_json" />
+        <item itemvalue="Python.01-write_json" />
       </list>
     </recent_temporary>
   </component>
@@ -385,14 +466,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="181" y="84" width="1400" height="856" extended-state="0" />
+    <frame x="450" y="175" width="1269" height="758" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24594992" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27220863" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35732985" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2087087" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39921466" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -401,7 +482,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33886585" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.18316832" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -417,170 +498,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/book/section-2/02-基本数据类型.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-2/03-函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-2/01-helloworld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-3/03-创建数列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-4/02-元组.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-5/01-if语句.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Android07/微信小程序7/源码/Code/day01/02-flexbox/pages/xiecheng/xiecheng.wxml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-5/02-检查摸个值是否在数列中.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-4/01-数列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/397241524/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5478" column="10" selection-start-line="5478" selection-start-column="6" selection-end-line="5478" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-6/04-字典嵌套字典.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-7/01-用户输入.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-7/02-while循环.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-7/03-使用标志退出while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-7/04-使用break退出while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-3/02- 操作列表(遍历数组).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-3/01-数组.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-7/05-while拷贝数列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-9/01-查看类中所有的属性.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-8/03-函数的返回值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-8/04-函数返回字典.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-8/05-函数参数-数列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-8/06-函数参数-任意参数1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-8/02-函数的实参和形参(位置参数).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/book/section-8/01-定义普通的函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -602,50 +519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="288">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-9/04-类的继承.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <marker date="1534231739000" expanded="true" signature="862:1310" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-9/05-类的重写方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="47" column="54" lean-forward="true" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-9/02-创建类.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-9/03-使用类和实例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <marker date="1534231191000" expanded="true" signature="10:15" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/book/section-8/module/user.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -657,33 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-9/06-实例作为属性.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-          <folding>
-            <marker date="1534232453000" expanded="true" signature="842:1099" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-8/09-调用模块中封装的函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-9/model/car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <marker date="1534232886000" expanded="true" signature="10:11" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -768,6 +614,301 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-10/02-write-file/file/test2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-10/02-write-file/02-写文件-追加.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-10/02-write-file/01-写文件-覆盖.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-10/03-异常/01-处理ZeroDivisionError异常.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-10/04-计算文章的单词数/file/test1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-10/04-计算文章的单词数/01-counts-world.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <marker date="1534301254000" expanded="true" signature="42:47" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-10/04-计算文章的单词数/file/test2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-10/04-计算文章的单词数/02-计算多个文件的单词数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/file/json_array.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/file/user.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" lean-forward="true" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/02-read_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/01-write_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-9/model/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <marker date="1534232886000" expanded="true" signature="10:11" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-9/01-查看类中所有的属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-9/03-使用类和实例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <marker date="1534231191000" expanded="true" signature="10:15" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-8/09-调用模块中封装的函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-11/module/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-9/05-类的重写方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-9/04-类的继承.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <marker date="1534231739000" expanded="true" signature="862:1310" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-9/02-创建类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-9/06-实例作为属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <marker date="1534232453000" expanded="true" signature="842:1099" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/section-11/01-编写测试方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#10#25#0" expanded="true" />
+            <marker date="1534310398000" expanded="true" signature="228:634" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/alien_invasion/images/ship.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/alien_invasion/bullet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1534324358000" expanded="true" signature="110:138" ph="..." />
+            <marker date="1534324358000" expanded="true" signature="1215:1219" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/ReadMe/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="130">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pygame/sprite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="121" column="16" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/397241524/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="4152" column="11" selection-start-line="4152" selection-start-column="6" selection-end-line="4152" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/alien_invasion/alien.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1534392146000" expanded="true" signature="48:49" ph="..." />
+            <marker date="1534392146000" expanded="true" signature="87:677" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/alien_invasion/ship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="49" column="39" lean-forward="true" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
+          <folding>
+            <marker date="1534402990000" expanded="true" signature="28:1142" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/alien_invasion/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <marker date="1534403726000" expanded="true" signature="15:20" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/alien_invasion/game_stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <marker date="1534407074000" expanded="true" signature="18:23" ph="..." />
+            <marker date="1534407074000" expanded="true" signature="243:247" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/alien_invasion/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+          <folding>
+            <element signature="e#7#17#0" expanded="true" />
+            <marker date="1534407119000" expanded="true" signature="258:263" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/alien_invasion/game_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79">
+          <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1534407046000" expanded="true" signature="1051:1235" ph="..." />
+            <marker date="1534407046000" expanded="true" signature="1310:1465" ph="..." />
+            <marker date="1534407046000" expanded="true" signature="1952:1953" ph="..." />
+            <marker date="1534407046000" expanded="true" signature="2309:2561" ph="..." />
+            <marker date="1534407046000" expanded="true" signature="4249:4254" ph="..." />
+            <marker date="1534407046000" expanded="true" signature="4582:4773" ph="..." />
+            <marker date="1534407046000" expanded="true" signature="4821:4826" ph="..." />
+            <marker date="1534407046000" expanded="true" signature="5048:5053" ph="..." />
+            <marker date="1534407046000" expanded="true" signature="5512:5785" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
