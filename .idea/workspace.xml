@@ -2,29 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="359a81d1-a1e5-4eac-91a2-6b13a25942df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/book/alien_invasion/alien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/alien_invasion/alien_invasion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/alien_invasion/bullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/alien_invasion/game_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/alien_invasion/game_stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/alien_invasion/images/alien.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/alien_invasion/images/ship.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/alien_invasion/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/alien_invasion/ship.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-10/02-write-file/01-写文件-覆盖.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-10/02-write-file/02-写文件-追加.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-10/03-异常/01-处理ZeroDivisionError异常.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/01-counts-world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/02-计算多个文件的单词数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/file/test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/file/test2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/01-write_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/02-read_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-11/01-编写测试方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/section-11/module/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫/ReadMe/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫/Test/TestBeautifulSoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫/Test/TestChromeDriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫/Test/TestFlask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫/Test/TestGeckoDriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫/Test/TestPhantomJS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫/Test/TestScrapydAPI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫/Test/TestTornado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/section-10/02-write-file/01-写文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/ReadMe/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/02-计算多个文件的单词数.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/section-10/04-计算文章的单词数/02-计算多个文件的单词数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,17 +26,24 @@
     <SUITE FILE_PATH="coverage/PythonStudy$02_.coverage" NAME="02-计算多个文件的单词数 Coverage Results" MODIFIED="1534301569640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10/04-计算文章的单词数" />
     <SUITE FILE_PATH="coverage/PythonStudy$my_car.coverage" NAME="my_car Coverage Results" MODIFIED="1534236105958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-9/model" />
     <SUITE FILE_PATH="coverage/PythonStudy$06_.coverage" NAME="06-实例作为属性 Coverage Results" MODIFIED="1534232458753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-9" />
+    <SUITE FILE_PATH="coverage/PythonStudy$TestPhantomJS.coverage" NAME="TestPhantomJS Coverage Results" MODIFIED="1534473284948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3网络爬虫/Test" />
+    <SUITE FILE_PATH="coverage/PythonStudy$TestScrapydAPI.coverage" NAME="TestScrapydAPI Coverage Results" MODIFIED="1534495468758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3网络爬虫/Test" />
     <SUITE FILE_PATH="coverage/PythonStudy$05__.coverage" NAME="05-函数参数-数列 Coverage Results" MODIFIED="1533799383857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-8" />
     <SUITE FILE_PATH="coverage/PythonStudy$03_readlines.coverage" NAME="03-readlines读取文件 Coverage Results" MODIFIED="1534240894253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10" />
     <SUITE FILE_PATH="coverage/PythonStudy$my_car__1_.coverage" NAME="my_car (1) Coverage Results" MODIFIED="1534236690815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-9/model2" />
     <SUITE FILE_PATH="coverage/PythonStudy$05_while.coverage" NAME="05-while拷贝数列 Coverage Results" MODIFIED="1533791516870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-7" />
+    <SUITE FILE_PATH="coverage/PythonStudy$TestGeckoDriver.coverage" NAME="TestGeckoDriver Coverage Results" MODIFIED="1534471803187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3网络爬虫/Test" />
     <SUITE FILE_PATH="coverage/PythonStudy$05_.coverage" NAME="05-类的重写方法 Coverage Results" MODIFIED="1534232455668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-9" />
     <SUITE FILE_PATH="coverage/PythonStudy$02__.coverage" NAME="02-写文件-追加 Coverage Results" MODIFIED="1534298321339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10/02-write-file" />
+    <SUITE FILE_PATH="coverage/PythonStudy$TestTornado.coverage" NAME="TestTornado Coverage Results" MODIFIED="1534489580450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3网络爬虫/Test" />
     <SUITE FILE_PATH="coverage/PythonStudy$06__.coverage" NAME="06-函数参数-任意参数 Coverage Results" MODIFIED="1533799706873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-8" />
+    <SUITE FILE_PATH="coverage/PythonStudy$TestBeautifulSoup.coverage" NAME="TestBeautifulSoup Coverage Results" MODIFIED="1534474127771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3网络爬虫/Test" />
+    <SUITE FILE_PATH="coverage/PythonStudy$TestFlask.coverage" NAME="TestFlask Coverage Results" MODIFIED="1534489464323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3网络爬虫/Test" />
     <SUITE FILE_PATH="coverage/PythonStudy$03_.coverage" NAME="03-使用类和实例 Coverage Results" MODIFIED="1534230816086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-9" />
     <SUITE FILE_PATH="coverage/PythonStudy$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1533702064284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section1" />
     <SUITE FILE_PATH="coverage/PythonStudy$01_if.coverage" NAME="01-if语句 Coverage Results" MODIFIED="1533722066979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-5" />
     <SUITE FILE_PATH="coverage/PythonStudy$01___1_.coverage" NAME="01-读取文件 (1) Coverage Results" MODIFIED="1534240955149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-10/01-write" />
+    <SUITE FILE_PATH="coverage/PythonStudy$TestChromeDriver.coverage" NAME="TestChromeDriver Coverage Results" MODIFIED="1534472512221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3网络爬虫/Test" />
     <SUITE FILE_PATH="coverage/PythonStudy$01_.coverage" NAME="01-编写测试方法 Coverage Results" MODIFIED="1534310478175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-11" />
     <SUITE FILE_PATH="coverage/PythonStudy$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1534407246213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/alien_invasion" />
     <SUITE FILE_PATH="coverage/PythonStudy$02_while.coverage" NAME="02-while循环 Coverage Results" MODIFIED="1533787468599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/section-7" />
@@ -70,20 +65,23 @@
     <session id="-1627443675">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.44" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="bmp" value="1" />
           <entry key="json" value="5" />
-          <entry key="md" value="3" />
-          <entry key="py" value="173" />
+          <entry key="md" value="7" />
+          <entry key="py" value="182" />
           <entry key="txt" value="11" />
           <entry key="wxml" value="1" />
         </counts>
@@ -92,85 +90,39 @@
         <counts>
           <entry key="Image" value="1" />
           <entry key="JSON" value="5" />
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="7" />
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="173" />
+          <entry key="Python" value="182" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="38" />
-          <entry key="md" value="23" />
+          <entry key="md" value="1173" />
           <entry key="py" value="19143" />
           <entry key="txt" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="23" />
+          <entry key="Markdown" value="1168" />
           <entry key="PLAIN_TEXT" value="96" />
-          <entry key="Python" value="19143" />
+          <entry key="Python" value="19144" />
+          <entry key="SQL" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book/alien_invasion/game_stats.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-              <folding>
-                <marker date="1534407074000" expanded="true" signature="18:23" ph="..." />
-                <marker date="1534407074000" expanded="true" signature="243:247" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book/alien_invasion/alien_invasion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-              <folding>
-                <element signature="e#7#17#0" expanded="true" />
-                <marker date="1534407119000" expanded="true" signature="258:263" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/book/alien_invasion/game_function.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-79">
-              <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <marker date="1534407046000" expanded="true" signature="1051:1235" ph="..." />
-                <marker date="1534407046000" expanded="true" signature="1310:1465" ph="..." />
-                <marker date="1534407046000" expanded="true" signature="1952:1953" ph="..." />
-                <marker date="1534407046000" expanded="true" signature="2309:2561" ph="..." />
-                <marker date="1534407046000" expanded="true" signature="4249:4254" ph="..." />
-                <marker date="1534407046000" expanded="true" signature="4582:4773" ph="..." />
-                <marker date="1534407046000" expanded="true" signature="4821:4826" ph="..." />
-                <marker date="1534407046000" expanded="true" signature="5048:5053" ph="..." />
-                <marker date="1534407046000" expanded="true" signature="5512:5785" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book/alien_invasion/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <marker date="1534403726000" expanded="true" signature="15:20" ph="..." />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/Python3网络爬虫/ReadMe/ReadMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="503">
+                <caret line="169" column="23" lean-forward="true" selection-start-line="169" selection-start-column="23" selection-end-line="169" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -198,14 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/book/section-7/03-使用标签推出while.py" />
-        <option value="$PROJECT_DIR$/book/section-7/04-使用break退出while.py" />
-        <option value="$PROJECT_DIR$/book/section-7/05-while拷贝数列.py" />
-        <option value="$PROJECT_DIR$/book/section-3/01-数组.py" />
-        <option value="$PROJECT_DIR$/book/section-8/01-定义函数.py" />
-        <option value="$PROJECT_DIR$/book/section-8/02-函数的实参和形参.py" />
-        <option value="$PROJECT_DIR$/book/section-9/01-查看类中所有的属性.py" />
-        <option value="$PROJECT_DIR$/book/section-8/03-函数的返回值.py" />
         <option value="$PROJECT_DIR$/book/section-8/04-函数返回字典.py" />
         <option value="$PROJECT_DIR$/book/section-8/05-函数参数-数列.py" />
         <option value="$PROJECT_DIR$/book/section-8/06-函数参数-任意参数.py" />
@@ -249,6 +193,14 @@
         <option value="$PROJECT_DIR$/book/alien_invasion/game_function.py" />
         <option value="$PROJECT_DIR$/book/alien_invasion/game_stats.py" />
         <option value="$PROJECT_DIR$/book/alien_invasion/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/Python3网络爬虫/Test/TestGeckoDriver.py" />
+        <option value="$PROJECT_DIR$/Python3网络爬虫/Test/TestChromeDriver.py" />
+        <option value="$PROJECT_DIR$/Python3网络爬虫/Test/TestPhantomJS.py" />
+        <option value="$PROJECT_DIR$/Python3网络爬虫/Test/TestBeautifulSoup.py" />
+        <option value="$PROJECT_DIR$/Python3网络爬虫/Test/TestFlask.py" />
+        <option value="$PROJECT_DIR$/Python3网络爬虫/Test/TestTornado.py" />
+        <option value="$PROJECT_DIR$/Python3网络爬虫/Test/TestScrapydAPI.py" />
+        <option value="$PROJECT_DIR$/Python3网络爬虫/ReadMe/ReadMe.md" />
       </list>
     </option>
   </component>
@@ -259,10 +211,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="450" />
-    <option name="y" value="175" />
-    <option name="width" value="1269" />
-    <option name="height" value="758" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="977" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -280,13 +231,19 @@
             <path>
               <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
+              <item name="Python3网络爬虫" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="alien_invasion" type="462c0819:PsiDirectoryNode" />
+              <item name="Python3网络爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="ReadMe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Python3网络爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,7 +254,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -324,8 +281,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.alien_invasion">
-    <configuration name="01-编写测试方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.TestScrapydAPI">
+    <configuration name="TestBeautifulSoup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -333,12 +290,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/section-11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3网络爬虫/Test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/section-11/01-编写测试方法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫/Test/TestBeautifulSoup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01-write_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TestFlask" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -355,12 +312,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3网络爬虫/Test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/01-write_json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫/Test/TestFlask.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,7 +326,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02-read_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TestPhantomJS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -377,12 +334,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3网络爬虫/Test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/section-10/05-把json格式的数据存到文件/02-read_json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫/Test/TestPhantomJS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -391,7 +348,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="alien" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TestScrapydAPI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -399,12 +356,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/alien_invasion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3网络爬虫/Test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/alien_invasion/alien.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫/Test/TestScrapydAPI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -413,7 +370,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TestTornado" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -421,12 +378,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/alien_invasion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3网络爬虫/Test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/alien_invasion/alien_invasion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫/Test/TestTornado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -436,19 +393,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.01-write_json" />
-      <item itemvalue="Python.02-read_json" />
-      <item itemvalue="Python.01-编写测试方法" />
-      <item itemvalue="Python.alien_invasion" />
-      <item itemvalue="Python.alien" />
+      <item itemvalue="Python.TestPhantomJS" />
+      <item itemvalue="Python.TestBeautifulSoup" />
+      <item itemvalue="Python.TestFlask" />
+      <item itemvalue="Python.TestTornado" />
+      <item itemvalue="Python.TestScrapydAPI" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.alien_invasion" />
-        <item itemvalue="Python.alien" />
-        <item itemvalue="Python.01-编写测试方法" />
-        <item itemvalue="Python.02-read_json" />
-        <item itemvalue="Python.01-write_json" />
+        <item itemvalue="Python.TestScrapydAPI" />
+        <item itemvalue="Python.TestTornado" />
+        <item itemvalue="Python.TestFlask" />
+        <item itemvalue="Python.TestBeautifulSoup" />
+        <item itemvalue="Python.TestPhantomJS" />
       </list>
     </recent_temporary>
   </component>
@@ -466,14 +423,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="450" y="175" width="1269" height="758" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="977" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27220863" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14270501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2087087" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3559322" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39921466" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -482,7 +440,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.18316832" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23050848" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -498,62 +456,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/book/section-8/01-定义普通的函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-8/07-函数参数-任意参数2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-8/08-函数参数-任意参数3-关键字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-8/module/user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-8/user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-9/model2/car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-9/model/my_car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/section-9/model2/my_car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/book/section-6/01-字典.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -656,9 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <marker date="1534301254000" expanded="true" signature="42:47" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,9 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <marker date="1534232886000" expanded="true" signature="10:11" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -725,9 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <marker date="1534231191000" expanded="true" signature="10:15" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,9 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
           <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <marker date="1534231739000" expanded="true" signature="862:1310" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,9 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <marker date="1534232453000" expanded="true" signature="842:1099" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,10 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#10#25#0" expanded="true" />
-            <marker date="1534310398000" expanded="true" signature="228:634" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -797,11 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
           <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1534324358000" expanded="true" signature="110:138" ph="..." />
-            <marker date="1534324358000" expanded="true" signature="1215:1219" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -810,16 +688,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="96">
             <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="130">
-            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           </first_editor>
           <second_editor />
         </state>
@@ -843,11 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1534392146000" expanded="true" signature="48:49" ph="..." />
-            <marker date="1534392146000" expanded="true" signature="87:677" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -855,60 +718,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="49" column="39" lean-forward="true" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
-          <folding>
-            <marker date="1534402990000" expanded="true" signature="28:1142" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/alien_invasion/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <marker date="1534403726000" expanded="true" signature="15:20" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/book/alien_invasion/game_stats.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-          <folding>
-            <marker date="1534407074000" expanded="true" signature="18:23" ph="..." />
-            <marker date="1534407074000" expanded="true" signature="243:247" ph="..." />
-          </folding>
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/book/alien_invasion/alien_invasion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="744">
           <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-          <folding>
-            <element signature="e#7#17#0" expanded="true" />
-            <marker date="1534407119000" expanded="true" signature="258:263" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/alien_invasion/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/book/alien_invasion/game_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1534407046000" expanded="true" signature="1051:1235" ph="..." />
-            <marker date="1534407046000" expanded="true" signature="1310:1465" ph="..." />
-            <marker date="1534407046000" expanded="true" signature="1952:1953" ph="..." />
-            <marker date="1534407046000" expanded="true" signature="2309:2561" ph="..." />
-            <marker date="1534407046000" expanded="true" signature="4249:4254" ph="..." />
-            <marker date="1534407046000" expanded="true" signature="4582:4773" ph="..." />
-            <marker date="1534407046000" expanded="true" signature="4821:4826" ph="..." />
-            <marker date="1534407046000" expanded="true" signature="5048:5053" ph="..." />
-            <marker date="1534407046000" expanded="true" signature="5512:5785" ph="..." />
-          </folding>
+        <state relative-caret-position="312">
+          <caret line="189" lean-forward="true" selection-start-line="189" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3网络爬虫/Test/TestChromeDriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3网络爬虫/Test/TestGeckoDriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3网络爬虫/Test/TestPhantomJS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3网络爬虫/Test/TestBeautifulSoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3网络爬虫/Test/TestTornado.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3网络爬虫/Test/TestFlask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3网络爬虫/Test/TestScrapydAPI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="282">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3网络爬虫/ReadMe/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="503">
+            <caret line="169" column="23" lean-forward="true" selection-start-line="169" selection-start-column="23" selection-end-line="169" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
