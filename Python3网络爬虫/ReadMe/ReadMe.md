@@ -183,6 +183,7 @@ http://www.runoob.com/redis/redis-install.html
 
 
 brew install curlbrew install curl
+
 ##3.软件的安装
    
 
