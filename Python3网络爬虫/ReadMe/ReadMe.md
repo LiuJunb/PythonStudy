@@ -114,6 +114,11 @@ UserWarning: Selenium support for PhantomJS has been deprecated, please use head
 
     sudo mongod
 
+6.2 关闭mongodb server
+
+    > mongo
+    > use admin
+    > db.shutdownServer()
 
 7.安装数据库可视化界面：RoboMongo/Robo 3T 1.2.1
 

@@ -13,7 +13,7 @@ def counts_words(file_name):
 
 
 # 2.调用函数
-file_names = ['file/Test.txt', 'file/test3.txt']
+file_names = ['file/Test-安装环境测试.txt', 'file/test3.txt']
 
 for file_name in file_names:
     print(counts_words(file_name))
