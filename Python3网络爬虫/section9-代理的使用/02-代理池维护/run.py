@@ -1,5 +1,6 @@
-from spider import Spider
+from scheduler import Scheduler
 
+# 这里是代理池执行的入口
 if __name__ == '__main__':
-    spider = Spider()
-    spider.run()
+    scheduler = Scheduler()
+    scheduler.run()

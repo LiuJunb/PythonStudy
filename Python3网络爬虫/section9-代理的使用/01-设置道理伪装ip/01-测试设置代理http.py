@@ -1,3 +1,5 @@
+# http://www.xicidaili.com/
+# 西刺免费代理
 from urllib.error import  URLError
 from urllib.request import ProxyHandler, build_opener
 

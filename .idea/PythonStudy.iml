@@ -7,6 +7,14 @@
       <sourceFolder url="file://$MODULE_DIR$/book/section-9-类/model" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/book/section-11-测试" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/book/alien_invasion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python3网络爬虫/section9-代理的使用/02-代理池维护" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python3网络爬虫/section9-代理的使用/04-获取搜狗微信公众号的数据" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python3网络爬虫/section13-Scrapy框架的使用/01-Scrapy入门/tutorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python3网络爬虫/section13-Scrapy框架的使用/03-downloader-middleware/scrapydownloadertest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python3网络爬虫/section13-Scrapy框架的使用/images360" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python3网络爬虫/section13-Scrapy框架的使用/05-Scrapy-Selenium/scrapyseleniumtest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python3网络爬虫/section13-Scrapy框架的使用/06-Scrapy通用爬虫/scrapyuinversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python3网络爬虫/section13-Scrapy框架的使用/07-爬取新浪微博/Weibo" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

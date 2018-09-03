@@ -64,6 +64,7 @@ def save_image(item):
     if not os.path.exists(item.get('title')):
         os.mkdir(item.get('title'))
     try:
+        # 获取图片不需要添加头
         response = requests.get('https:'+item.get('image'))
         if response.status_code == 200:
             # 2.图片的名称

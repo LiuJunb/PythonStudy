@@ -57,7 +57,27 @@ UserWarning: Selenium support for PhantomJS has been deprecated, please use head
 
 ###2.tesserocr
 
-安装比较久
+安装tesserocr : 字符识别
+
+    brew install imagemagick 
+    brew install tesseract   # 这个是命令行工具,  /usr/local/Cellar/tesseract/3.05.02
+    
+    # sudo pip3 install --default-timeout=100 future 如果不执行这行会包下面的错误
+    pip3 install pytesserocr  # 这个是写代码调用命令行工具来解析图片
+
+
+
+报错： EnvironmentError: HTTPSConnectionPool
+
+Could not install packages due to an EnvironmentError: HTTPSConnectionPool
+(host='files.pythonhosted.org', port=443): 
+Max retries exceeded with url: 
+/packages/13/56/befaafbabb36c03e4fdbb3fea854e0aea2
+94039308a93daf6876bf7a8d6b/pytesseract-0.2.4.tar.gz 
+(Caused by NewConnectionError('<pip._vendor.urllib3.connection.
+VerifiedHTTPSConnection object at 0x10ad61c88>: 
+Failed to establish a new connection: [Errno 8] nodename 
+nor servname provided, or not known'))
 
 
 ###3.mysql 8.0.12

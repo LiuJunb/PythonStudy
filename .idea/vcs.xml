@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python3网络爬虫/section13-Scrapy框架的使用/07-爬取新浪微博/Weibo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python3网络爬虫/section13-Scrapy框架的使用/ScrapyTutorial" vcs="Git" />
   </component>
 </project>
