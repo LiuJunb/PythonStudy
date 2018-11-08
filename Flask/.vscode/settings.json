@@ -2,5 +2,16 @@
     "python.formatting.provider": "autopep8",
     "python.linting.flake8Args": ["--max-line-length=248"],
     "python.linting.pylintEnabled": false,
-    "python.pythonPath": "/Users/android-school/Python/myPython2Env/bin/python"
+    "python.pythonPath": "/Users/android-school/Python/myPython2Env/bin/python",
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./07-Flask-test-Base7",
+        "-p",
+        "test-*.py"
+    ],
+    "python.unitTest.pyTestEnabled": true,
+    "python.unitTest.nosetestsEnabled": true,
+    "python.unitTest.unittestEnabled": true,
+    "python.unitTest.promptToConfigure": true
 }
