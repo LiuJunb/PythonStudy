@@ -22,6 +22,42 @@ Command "python setup.py egg_info" failed with error code 1 in /private/var/fold
 https://github.com/admiralobvious/flask-mysqldb
 
 
+###5.redis 安装(默认端口：6379)
+
+http://www.runoob.com/redis/redis-install.html
+
+1.使用brew安装:
+
+    brew install redis
+
+2.默认的安装路径：
+    
+3.默认的配置文件路径：
+
+    /usr/local/etc/redis.conf
+
+4.启动redis:
+
+    brew services start redis
+    redis-server /usr/local/etc/redis.conf
+    
+    brew services stop redis
+    brew services restart redis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # python2 vs python3 语法区别
 
 1）# coding:utf-8
