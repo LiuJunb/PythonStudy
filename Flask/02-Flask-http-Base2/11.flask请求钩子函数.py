@@ -12,7 +12,7 @@ def index():
 def home():
     print('home page 执行')
     return 'index page'
-
+   
 @app.before_first_request
 def hande_before_first_request():
     """1.在第一次请求处理之前先被执行"""

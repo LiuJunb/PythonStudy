@@ -100,6 +100,11 @@ except Exception as e:
     return false
 
 
+6) map()
+map 函数 在python2 中返回是具体的值
+map 函数 在python3 中返回是对象, 可以通过list拿到具体的值
+
+
 
 
 

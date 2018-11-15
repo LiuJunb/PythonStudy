@@ -63,7 +63,7 @@ if __name__ == '__main__':
 # 2) 执行  python  03-db-weihu.py  db init
 # 3）修改数据库的模型
 
-# 4）执行 python 03-db-weihu.py db migrate -m 'add address,not support chine'   数据库会多出一张表
+# 4）执行 python 03-db-weihu.py db migrate -m 'add address,not support chine'   数据库会多出一张表( 其实也支持第一次新建表 )
 # 5) 执行跟新数据库 python  03-db-weihu.py  db upgrade   对应的表会添加字段
 
 # 6）查看数据库表字段的更新情况     python  03-db-weihu.py  db history  
